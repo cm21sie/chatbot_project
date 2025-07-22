@@ -6,6 +6,10 @@ from langchain_core.prompts import ChatPromptTemplate, SystemMessagePromptTempla
 from langchain_community.vectorstores import FAISS
 from langchain_community.llms import Ollama
 from langchain_ollama import OllamaEmbeddings
+from transformers import AutoTokenizer, AutoModelForCausalLM, pipeline
+import torch
+from langchain_huggingface import HuggingFaceEmbeddings
+from langchain_community.llms import HuggingFacePipeline
 
 # --- Streamlit App Setup ---
 st.set_page_config(page_title="University of Leeds Chemistry FAQ Chatbot")
@@ -55,7 +59,7 @@ human_prompt
 # --- Embeddings & Vector Store Setup ---
 
 # Use Ollama to generate embeddings from chunked documents
-embeddings = OllamaEmbeddings(model="nomic-embed-text")
+embeddings = HuggingFaceEmbeddings(model_name="sentence-transformers/all-MiniLM-L6-v2")
 
 # Load the FAISS index built in 'ingest.py' - contains the vector representations of the content
 vectorstore = FAISS.load_local(
@@ -68,8 +72,19 @@ retriever = vectorstore.as_retriever(search_type="similarity", search_kwargs={"k
 
 # --- LLM Setup Using Ollama ---
 
+pipe = pipeline(
+    "text-generation",
+    model="deepseek-ai/deepseek-llm-7b-chat",
+    device=0,
+    torch_dtype=torch.float16,
+    max_new_tokens=256,
+    do_sample=False,
+    temperature=0,
+    return_full_text=False
+)
+
 # Load LLaMA 3 model using Ollama
-llm = Ollama(model="llama3", temperature=0) # Deterministic output
+llm = HuggingFacePipeline(pipeline=pipe)
 
 # --- RAG Chain ---
 rag_chain = (
