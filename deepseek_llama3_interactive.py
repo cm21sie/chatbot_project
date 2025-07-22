@@ -4,8 +4,6 @@ from langchain_core.messages import HumanMessage, AIMessage
 from langchain_core.output_parsers import StrOutputParser
 from langchain_core.prompts import ChatPromptTemplate, SystemMessagePromptTemplate, HumanMessagePromptTemplate
 from langchain_community.vectorstores import FAISS
-from langchain_community.llms import Ollama
-from langchain_ollama import OllamaEmbeddings
 from transformers import AutoTokenizer, AutoModelForCausalLM, pipeline
 import torch
 from langchain_huggingface import HuggingFaceEmbeddings
