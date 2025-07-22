@@ -1,0 +1,508 @@
+Chemistry Undergraduate Modules 2025/26
+University of Leeds Module Catalogue
+
+---
+
+Foundation Year Modules:
+
+- CHEM0811: Elementary General and Inorganic Chemistry (IFY)
+    Credits: 10
+    Year: 0
+    Semester: 1
+    Pre-requisites: None, but a grade C in the GCSE examination in Chemistry or Integrated Science would be advantageous
+    Assessment: In-course Assessment (Assessment of laboratory work) 20%, Open Book exam (2 hours) 80%
+    URL: https://catalogue.leeds.ac.uk/Module/UG/CHEM/0811/
+
+- CHEM0821: Elementary Physical Chemistry (IFY)
+    Credits: 10
+    Year: 0
+    Semester: 1
+    Pre-requisites: None, but a grade C in the GCSE examination in Chemistry or Integrated Science would be advantageous
+    Assessment: Assignment (Laboratory Exercise) 40%, Open Book exam (2 hours) 60%
+    URL: https://catalogue.leeds.ac.uk/Module/UG/CHEM/0821/202526
+
+- CHEM0831: Elementary Organic Chemistry (IFY)
+    Credits: 10
+    Year: 0
+    Semester: 2 
+    Pre-requisites: None, but a grade C in the GCSE examination in Chemistry or Integrated Science would be advantageous
+    Assessment: Assignment (Laboratory Exercise) 20%, Open Book exam (2 hours) 80%
+    URL: https://catalogue.leeds.ac.uk/Module/UG/CHEM/0831/202526
+
+- CHEM0841: Elementary Analytical Chemistry and Chemistry Project
+    Credits: 10
+    Year: 0
+    Semester: 2
+    Pre-requisites: Co-requesites of CHEM1811, CHEM1821, CHEM1831
+    Assessment: Presentation (Chemical project) 25%, Problem Sheet 75%
+    URL: https://catalogue.leeds.ac.uk/Module/UG/CHEM/0841/202526
+
+Year 1 Modules:
+
+- CHEM1102: Chemistry in Action: Atoms, Molecules, Matter
+    Credits: 10
+    Year: 1
+    Semester: 1
+    Pre-requisites: A level chemistry or equivalent
+    Assessment: Open Book exam (2 hours) 100%
+    URL: https://catalogue.leeds.ac.uk/Module/UG/CHEM/1102/202526
+
+- CHEM1151: Chemistry for Biochemists
+    Credits: 10
+    Year: 1
+    Semester: 1
+    Pre-requisites: A level chemistry or equivalent, or registration on appropriate programme
+    Assessment: Open Book exam (2 hours) 100%
+    URL: https://catalogue.leeds.ac.uk/Module/UG/CHEM/1151/202526
+
+- CHEM1204: Fundamental Organic Chemistry for Biology & Synthesis
+    Credits: 10
+    Year: 1 
+    Semester: 2
+    Pre-requisites: A level chemistry or equivalent, or registration on appropriate programme
+    Assessment: Open Book exam (2 hours) 100%
+    URL: https://catalogue.leeds.ac.uk/Module/UG/CHEM/1204/
+
+- CHEM1205: Chemistry of the Material World
+    Credits: 10
+    Year: 1
+    Semester: 2
+    Pre-requisites: A level chemistry or equivalent, or registration on appropriate programme
+    Assessment: Open Book exam (2 hours) 100%
+    URL: https://catalogue.leeds.ac.uk/Module/UG/CHEM/1205/202526
+
+- CHEM1302: Introduction to Modern Chemistry
+    Credits: 20
+    Year: 1
+    Semester: 1 & 2
+    Pre-requisites: A level chemistry or equivalent, or registration on appropriate programme
+    Assessment: Open Book exam (2 hours) 40%, Open Book exam (2 hours) 60%
+    URL: https://catalogue.leeds.ac.uk/Module/UG/CHEM/1302/202526
+
+- CHEM1303: Chemistry and Chemists for a Sustainable Future
+    Credits: 20
+    Year: 1
+    Semester: 1 & 2
+    Pre-requisites: A level chemistry or equivalent, or registration on appropriate programme
+    Assessment: Coursework (Essay) 30%, Coursework (Group presentation) 30%, Coursework (Reflection & action plan) 20%, Coursework (Coding exercise) 20%
+    URL: https://catalogue.leeds.ac.uk/Module/UG/CHEM/1303/202526
+
+- CHEM1402: Introduction to Practical Chemistry and Research Skills
+    Credits: 40
+    Year: 1
+    Semester: 1 & 2
+    Pre-requisites: A level chemistry or equivalent, or registration on appropriate programme
+    Assessment: Practical (Practical pre-labs, reports and in-lab assessments) 80%, Coursework (Online assessments) 20%
+    URL: https://catalogue.leeds.ac.uk/Module/UG/CHEM/1402/202526
+
+- CHEM1403: Practical and Research Skills for Chemistry and Maths
+    Credits: 10
+    Year: 1
+    Semester: 1 & 2
+    Pre-requisites: A level Chemistry and Maths or equivalent, or registration on appropriate programme
+    Assessment: Coursework (Online assessments) 15%, Practical (Practical lab assessments & reports) 85%
+    URL: https://catalogue.leeds.ac.uk/Module/UG/CHEM/1403/
+
+- CHEM1465: Practical Materials Science 1
+    Credits: 10
+    Year: 1
+    Semester: 1
+    Pre-requisites: None except programme qualifications
+    Assessment: Practical (Assessment of Lab Reports and Skills) 100%
+    URL: https://catalogue.leeds.ac.uk/Module/UG/CHEM/1465/202526
+
+Second Year Modules:
+
+- CHEM2112: Chemistry of Materials: what they are and how we know
+    Credits: 10
+    Year: 2
+    Semester: 1
+    Pre-requisites: Completion of level 1 of a Chemistry or Materials science programme similar to that at Leeds, or equivalent
+    Assessment: TBC at the beginning of the academic year
+    URL: https://catalogue.leeds.ac.uk/Module/UG/CHEM/2112/202526
+
+- CHEM2131: Chemical Kinetics and Thermodynamics
+    Credits: 10
+    Year: 2
+    Semester: 1
+    Pre-requisites: Level 1 Chemistry or equiavlent
+    Assessment: Tutorial Performance (Coursework for two seminars) 0%, Open Book exam (2 hours) 100%
+    URL: https://catalogue.leeds.ac.uk/Module/UG/CHEM/2131/202526
+
+- CHEM2192: Molecular Signatures: Spectroscopy and Chromatography
+    Credits: 10
+    Year: 2
+    Semester: 1
+    Pre-requisites: Completion of level 1 of a Chemistry programme similar to that at Leeds, or registration on level 2 of appropriate programme
+    Assessment: TBC at the beginning of the academic year
+    URL: https://catalogue.leeds.ac.uk/Module/UG/CHEM/2192/202526
+
+- CHEM2212: Organometallics: from bonding to Catalysis
+    Credits: 10
+    Year: 2
+    Semester: 2
+    Pre-requisites: Completion of level 1 of a Chemistry programme similar to that at Leeds, or equivalent
+    Assessment: TBC at the beginning of the academic year
+    URL: https://catalogue.leeds.ac.uk/Module/UG/CHEM/2212/202526
+
+- CHEM2242: Introduction to Drug Design
+    Credits: 10
+    Year: 2
+    Semester: 2
+    Pre-requisites: Level 1 of a Chemistry or Biochemistry programme equivalent to that at Leeds
+    Assessment: TBC at the beginning of the academic year
+    URL: https://catalogue.leeds.ac.uk/Module/UG/CHEM/2242/202526
+
+- CHEM2293: Specialisms in Chemical Science
+    Credits: 10
+    Year: 2
+    Semester: 2
+    Pre-requisites: Completion of level 1 of a Chemistry programme similar to that at Leeds
+    Assessment: TBC at the beginning of the academic year
+    URL: https://catalogue.leeds.ac.uk/Module/UG/CHEM/2293/
+
+- CHEM2321: Organic Chemistry: Structure, Reactions and the Science of Life
+    Credits: 20
+    Year: 2 
+    Semester: 1 & 2
+    Pre-requisites: Completion of level 1 of a UG Chemistry programme similar to that at Leeds
+    Assessment: TBC at the beginning of the academic year
+    URL: https://catalogue.leeds.ac.uk/Module/UG/CHEM/2321/202526
+
+- CHEM2331: Molecules, Energy, Quanta and Change
+    Credits: 20
+    Year: 2
+    Semester: 1 & 2
+    Pre-requisites: Completion of level 1 of a Chemistry programme similar to that at Leeds
+    Assessment: TBC at the beginning of the academic year
+    URL: https://catalogue.leeds.ac.uk/Module/UG/CHEM/2331/202526
+
+- CHEM2342: Chemical Pharmacology and Drug Design
+    Credits: 20 
+    Year: 2
+    Semester: 1 & 2
+    Pre-requisites: Completion of level 1 of a Chemistry programme similar to that at Leeds
+    Assessment:
+    URL: https://catalogue.leeds.ac.uk/Module/UG/CHEM/2342/
+
+- CHEM2371: Chemistry of Materials and Practical Materials Science 2
+    Credits: 20
+    Year: 2
+    Semester: 1 & 2
+    Pre-requisites: Completion of level 1 of a Materials Science or Chemistry programme similar to that at Leeds, or equivalent
+    Assessment: TBC at the beginning of the academic year
+    URL: https://catalogue.leeds.ac.uk/Module/UG/CHEM/2371/202526
+
+- CHEM2372: Fundamental Chemistry for Materials Science
+    Credits: 20
+    Year: 2
+    Semester: 1 & 2
+    Pre-requisites: Completion of level 1 of a Materials Science or Chemistry programme similar to that at Leeds, or equivalent
+    Assessment: TBC at the beginning of the academic year
+    URL: https://catalogue.leeds.ac.uk/Module/UG/CHEM/2372/202526
+
+- CHEM2402: Practical, Professional and Research Skills for Chemists
+    Credits: 40
+    Year: 2
+    Semester: 1 & 2
+    Pre-requisites: Experience of practical work in chemistry, equivalent to level 1 of the undergraduate programme at Leeds
+    Assessment: TBC at the beginning of the academic year
+    URL: https://catalogue.leeds.ac.uk/Module/UG/CHEM/2402/202526
+
+- CHEM2403: Further Practical, Professional and Research skills for Chemistry and Maths
+    Credits: 20
+    Year: 2
+    Semester: 1 & 2
+    Pre-requisites: Completion of level 1 of a programme including practical and theoretical chemistry similar to Leeds Chemistry and Maths, or registration on level 2 of appropriate programme
+    Assessment: TBC at the beginning of the academic year
+    URL: https://catalogue.leeds.ac.uk/Module/UG/CHEM/2403/202526
+
+- CHEM2415: Laboratory Work 2X
+    Credits: 15
+    Year: 2
+    Semester: 1 or 2
+    Pre-requisites: Suitable qualification from the home institution
+    Assessment: Practical (Assessment of lab reports and skills plus online exercises) 100%
+    URL: https://catalogue.leeds.ac.uk/Module/UG/CHEM/2415/202526
+
+- CHEM2425: Level 2 Laboratory Work for JYA
+    Credits: 30
+    Year: 2
+    Semester: 1 & 2
+    Pre-requisites: Suitable qualification from the home institute
+    Assessment: Practical (Continuous assessment of lab reports, group work and online tests) 100%
+    URL: https://catalogue.leeds.ac.uk/Module/UG/CHEM/2425/
+
+- CHEM2452: Practical, Professional and Research skills for Medicinal Chemists
+    Credits: 40
+    Year: 2
+    Semester: 1 & 2
+    Pre-requisites: Experience of practial work in chemistry, equivalent to level 1 of the undergraduate programme at Leeds
+    Assessment: TBC at the beginning of the academic year
+    URL: https://catalogue.leeds.ac.uk/Module/UG/CHEM/2452/
+
+- CHEM2491: Structural and Quantitative Analysis and Synthetic Laboratory
+    Credits: 20
+    Year: 2
+    Semester: 1 & 2
+    Pre-requisites: Completion of level 1 of a programme including practical and theoretical chemistry similar to Leeds Natural Sciences, or registration on level 2 of appropruare programme
+    Assessment: TBC at the beginning of the academic year
+    URL: https://catalogue.leeds.ac.uk/Module/UG/CHEM/2491/202526
+
+- CHEM2492: Chemical Specialisms, Physical and Measurement Laboratory
+    Credits: 20
+    Year: 2
+    Semester: 1 & 2
+    Pre-requisites: Completion of level 1 of a programme including practical and theoretical chemistry similar to Leeds Natural Sciences, or registration on level 2 of appropriate programme
+    Assessment: TBC at the beginning of the academic year
+    URL: https://catalogue.leeds.ac.uk/Module/UG/CHEM/2492/202526
+
+- CHEM2690: Laboratory Work 2e
+    Credits: 20
+    Year: 1
+    Semester: 1 & 2
+    Pre-requisites: Level 1 in Chemistry or equivalent
+    Assessment: Practical (Continuous assessment of lab reports, group work and online tests) 100%
+    URL: https://catalogue.leeds.ac.uk/Module/UG/CHEM/2690/202526
+
+Third Year Modules:
+
+- CHEM3126: Strategy, Methods and Reaction Technology for Organic Synthesis
+    Credits: 10
+    Year: 3
+    Semester: 1
+    Pre-requisites: CHEM2121
+    Assessment: Presentation (Group work multi media presentation) 20%, Open Book exam (2 hours) 80%
+    URL: https://catalogue.leeds.ac.uk/Module/UG/CHEM/3126/202526
+
+- CHEM3136: Energy, Molecules and Chemical Change
+    Credits: 10
+    Year: 3
+    Semester: 1
+    Pre-requisites: Level 2 in a Chemistry programme or equivalent
+    Assessment: Open Book exam (2 hours) 100%
+    URL: https://catalogue.leeds.ac.uk/Module/UG/CHEM/3136/202526
+
+- CHEM3146: Medicinal Chemistry
+    Credits: 10
+    Year: 3
+    Semester: 1
+    Pre-requisites: Level 2 in Chemistry or Medicinal Chemistry or Level 2 in Joint Honours (Science) with Chemistry or equivalent or Level 2 in MNatSci, BSc Natural Sciences. For MSc candidates, undergraduate BSc level degree in Chemistry, Biochemistry or related subject
+    Assessment: Report (Written Report, 2 pages of A4) 15%, Written Work (Submission of a satisfactory attempt at written coursework (exam-type questions) half way through the module is compulsory in order to pass the module) 0%, Open Book exam (2 hours) 85%
+    URL: https://catalogue.leeds.ac.uk/Module/UG/CHEM/3146/202526
+
+- CHEM3185: Atmospheric Chemistry
+    Credits: 10
+    Year: 3 
+    Semester: 1
+    Pre-requisites: Successful completion of Year 1 in Chemistry of Year 1 in Joint Honours (Science) with Chemistry, or equivalent
+    Assessment: Presentation (Group presentation) 20%, Open Book exam (2 hours) 80%
+    URL: ​https://catalogue.leeds.ac.uk/Module/UG/CHEM/3185/202526
+
+- CHEM3211: Properties and Applications of Materials
+    Credits: 10
+    Year: 3
+    Semester: 1
+    Pre-requisites: Level 1 in Chemistry or equivalent Level 2 in Chemistry or equivalent, CHEM2111
+    Assessment: Open Book exam (2 hours) 100%
+    URL: https://catalogue.leeds.ac.uk/Module/UG/CHEM/3211/202526
+
+- CHEM3212: Big Data, Big Science
+    Credits: 10
+    Year: 3
+    Semester: 1
+    Pre-requisites: N/A
+    Assessment: Project (Programming Project) 100%
+    URL: https://catalogue.leeds.ac.uk/Module/UG/CHEM/3212/202526
+
+- CHEM3216: Advanced Organometallics and Catalysis
+    Credits: 10
+    Year: 3
+    Semester: 2
+    Pre-requisites: CHEM3122, CHEM2211
+    Assessment: In-course MCQ (Four formative quizzes) 0%, Open Book exam (2 hours) 100%
+    URL: ​https://catalogue.leeds.ac.uk/Module/UG/CHEM/3216/202526
+
+- CHEM3226: Process chemistry and reactive intermediates in synthesis
+    Credits: 10
+    Year: 3
+    Semester: 2
+    Pre-requisites: Level 2 in Chemistry or Level 2 in Joint Honours (Science) with Chemistry or equivalent
+    Assessment: Report (3 page report on research paper) 15%, Open Book exam (2 hours) 85%
+    URL: https://catalogue.leeds.ac.uk/Module/UG/CHEM/3226/202526
+
+- CHEM3281: Topics in Fundamental and Theoretical Chemistry (10cr)
+    Credits: 10
+    Year: 3
+    Semester: 2
+    Pre-requisites: Level 2 in Chemistry or Level 2 in Joint Honours (Science) with Chemistry or equivalent
+    Assessment: Computer Excercise 50%, Open Book exam (1 hour) 50%
+    URL: https://catalogue.leeds.ac.uk/Module/UG/CHEM/3281/202526
+
+- CHEM3282: Topics in Fundamental and Theoretical Chemistry (20cr)
+    Credits: 20
+    Year: 3
+    Semester: 2
+    Pre-requisites: Level 2 in Chemistry or Level 2 in Joint Honours (Science) with Chemistry or equivalent
+    Assessment: Computer Exercise 25%, Open Book exam (3 hours) 75%
+    URL: https://catalogue.leeds.ac.uk/Module/UG/CHEM/3282/
+
+- CHEM3283: Topics in Fundamental Chemistry
+    Credits: 10
+    Year: 3
+    Semester: 2
+    Pre-requisites: Level 2 in Chemistry or Level 2 in Joint Honours (Science) with Chemistry or equivalent
+    Assessment: Open Book exam (2 hours) 100%
+    URL: https://catalogue.leeds.ac.uk/Module/UG/CHEM/3283/202526
+
+- CHEM3291: Topics in Interdisciplinary and Applied Chemistry (10cr)
+    Credits: 10
+    Year: 3
+    Semester: 2
+    Pre-requisites: Level 2 in Chemistry or Level 2 in Joint or Combined Honours (Science) with Cemistry or equivalent
+    Assessment: Open Book exam (1.5 hours) 100%
+    URL: https://catalogue.leeds.ac.uk/Module/UG/CHEM/3291/202526
+
+- CHEM3292: Topics in Interdisciplinary and Applied Chemistry (20cr)
+    Credits: 20
+    Year: 3
+    Semester: 2
+    Pre-requisites: Level 2 in Chemistry or Level 2 in Joint or Combined Honours (Science) with Chemistry or equivalent
+    Assessment: Open Book exam (3 hours) 100%
+    URL: https://catalogue.leeds.ac.uk/Module/UG/CHEM/3292/202526
+
+- CHEM3302: Distance Learning for Year in Industry
+    Credits: 30
+    Year: 3
+    Semester: 1 & 2
+    Pre-requisites: Level 2 in Chemistry, Chemistry or Medicinal Chemistry or equivalent, co-requisites of CHEM8101
+    Assessment: Problem Sheet (Distance learning problem based exercises) 100%
+    URL: https://catalogue.leeds.ac.uk/Module/UG/CHEM/3302/202526
+
+- CHEM3145: Laboratory Work 3X
+    Credits: 15
+    Year: 3
+    Semester: 1 or 2
+    Pre-requisites: Suitable qualification from the home institution
+    Assessment: Practical (Assessment of lab reports and skills plus online exercises) 100%
+    URL: https://catalogue.leeds.ac.uk/Module/UG/CHEM/3415/202526
+
+- CHEM3417: Advanced Lab Work for MChem
+    Credits: 30
+    Year: 3
+    Semester: 1 & 2
+    Pre-requisites: Level 2 in chemistry or equivalent
+    Assessment: Practical (Assessment of lab reports and skills plus online exercises) 100%
+    URL: https://catalogue.leeds.ac.uk/Module/UG/CHEM/3417/202526
+
+- CHEM3420: Laboratory Work 2M
+    Credits: 20
+    Year: 3
+    Semester: 1
+    Pre-requisites: Level 2 in Chemistry or equivalent
+    Assessment: Practical (Assessment of lab reports and skills plus online exercises) 100%
+    URL: https://catalogue.leeds.ac.uk/Module/UG/CHEM/3420/202526
+
+- CHEM3424: Laboratory Work for Medicinal Chemists (2M)
+    Credits: 20
+    Year: 3
+    Semester: 1
+    Pre-requisites: Level 2 in Medicinal Chemistry. CHEM2451
+    Assessment: Practical (Practical Reports) 100%
+    URL: https://catalogue.leeds.ac.uk/Module/UG/CHEM/3424/202526 
+
+- CHEM3425: Level 3 Laboratory Work for JYA
+    Credits: 30
+    Year: 3
+    Semester: 1 & 2
+    Pre-requisites: Suitable qualification from the home institute
+    Assessment: Practical (Assessment of lab reports and skills plus online exercises) 100%
+    URL: https://catalogue.leeds.ac.uk/Module/UG/CHEM/3425/
+
+- CHEM3437: Literature-based Project Work
+    Credits: 10
+    Year: 3
+    Semester: 1 or 2
+    Pre-requisites: Level 2 in Chemistry or equivalent
+    Assessment: Assignment (Literature searching and referencing) 0%, Written Work (List of formatted references) 10%, Essay 90%
+    URL: https://catalogue.leeds.ac.uk/Module/UG/CHEM/3437/202526
+
+- CHEM3455: Advanced Lab Work for MChem (Medicinal)
+    Credits: 30
+    Year: 3
+    Semester: 1 & 2
+    Pre-requisites: Level 2 in Medicinal Chemistry or equivalent
+    Assessment: Practical (Assessment of lab reports and skills plus online exercises) 100%
+    URL: https://catalogue.leeds.ac.uk/Module/UG/CHEM/3455/202526
+
+- CHEM3480: Project for Chemistry or Medicinal Chemistry (30cr)
+    Credits: 30
+    Year: 3
+    Semester: 1 & 2
+    Pre-requisites: Level 2 in Chemistry or Medicinal Chemistry
+    Assessment: Literature Review (3000-word literature review and project plan) 15%, Poster Presentation 15%, Practical (Supervisor's Assessment) 25%, Report (Final report) 45%
+    URL: https://catalogue.leeds.ac.uk/Module/UG/CHEM/3480/202526
+
+- CHEM3621: Ethical Issues in Chemistry
+    Credits: 10
+    Year: 3
+    Semester: 1
+    Pre-requisites: N/A
+    Assessment: Essay (Paper of 3000 words on ethical issues to be submitted in Week 11) 70%, Presentation (Group presentation lasting 15 minutes to be given in Week 8) 20%, Tutorial Performance (4 x online quiz before seminar) 10%
+    URL: https://catalogue.leeds.ac.uk/Module/UG/CHEM/3621/202526
+
+- CHEM3650: Laboratory-based Project Work 2M
+    Credits: 20
+    Year: 3
+    Semester: 1 & 2
+    Pre-requisites: Level 2 in Chemistry and Maths, Natural Sciences or equivalent
+    Assessment: Literature Review (3000-word literature review and project plan) 25%, Report (Final report) 45%, Practical (Assessment by Supervisor) 30%
+    URL: https://catalogue.leeds.ac.uk/Module/UG/CHEM/3650/202526
+
+- CHEM3666: Chemistry into Schools
+    Credits: 20
+    Year: 3
+    Semester: 1 & 2
+    Pre-requisites: N/A
+    Assessment: Reflective log (A summary report (approximately 1500 words) of your Learning Log Book of skills developed during the module, reflecting and evaluating on your progress and experiences) 30%, Teaching Skills (Delivery of a teaching activity (approx. 15 mins) where you will design teaching resources and teach a topic/concept of secondary-level chemistry) 30%, Report (A written report (between 3000-3500 words) based on the Special School Project. This should include copies of all teaching resources and materials produced for the School) 40%
+    URL: https://catalogue.leeds.ac.uk/Module/UG/CHEM/3666/202526
+
+- CHEM3720: Laboratory Work 2M
+    Credits: 20
+    Year: 3
+    Semester: 1 & 2
+    Pre-requisites: Level 2 in Joint Honours (Science) with Chemistry or equivalent
+    Assessment: Practical (Assessment of lab reports and skills plus online exercises) 100%
+    URL: https://catalogue.leeds.ac.uk/Module/UG/CHEM/3720/202526
+
+- CHEM8101: Industrial Placement for Integrated Masters Students
+    Credits: 90
+    Year: 3
+    Semester: 1 & 2
+    Pre-requisites: Level 2 in Chemistry or Medicinal Chemistry. Co-requisites of CHEM3302
+    Assessment: Report (A written report on their placement work) 60%, Report (A non-confidential report to be returned to the university for second marking and viewable by external examiners) 20%, Placement Assessment (Skills assessment by industrial supervisor) 0%, Presentation (Verbal Presentation) 20%
+    URL: https://catalogue.leeds.ac.uk/Module/UG/CHEM/8101/
+
+- CHEM8501: Industrial Experience Year
+    Credits: 120
+    Year: 3
+    Semester: 1 & 2
+    Pre-requisites: Completion of Level 2 of a programme in Chemistry or Natural Sciences to an appropriate standard, and the obtaining of a suitable placement in industry
+    Assessment: Report (A written report on their work placement) 60%, Oral Presentation (Verbal presentation on placement work and skills development) 20%, Placement Assessment (Skills assessment by industrial supervisor) 0%, Report (Non-confidential report to be returned to the university for second marking and viewable by external examiners) 20%
+    URL: https://catalogue.leeds.ac.uk/Module/UG/CHEM/8501/202526
+
+- CHEM9302: International Year Abroad
+    Credits: 120
+    Year: 3
+    Semester: 1 & 2
+    Pre-requisites: Students must be eligible to progress to Year 3 of their programme prior to embarking on the study year abroad. Where the language medium of the partner institution is not English, students must have normally gained at least Grade B at GCSE in the foreign language, and successfully completed a relevant package of FLTU electives in years 1 and/or 2 (or equivalent) in the foreign language. Students must also have succeeded in being placed at a partner institution offering their subject area(s) through application to the Study Abroad Office (note that a Year 1 grade of more than 60% will probably be needed to make a competitive application). Joint Honours and Natural Sciences students can only choose to study at destinations where there is a bilateral agreement with one of their subject areas. The only exception to this is Univesity College, Utrecht
+    Assessment: In-course Assessment (Based on: i. a pass/fail mark obtained under the host institution's assessment system to equate at least 50 credits (normally 60 credits) as specified by the European Credit Transfer Scheme (ECTS) (i.e. the equivalent of 100-120 Leeds credits); ii. satisfactory reports from the academic supervisor at the host institution) 100%
+    URL: https://catalogue.leeds.ac.uk/Module/UG/CHEM/9302/202526
+
+- CHEM9304: Integrated Year Abroad: International
+    Credits: 120
+    Year: 3
+    Semester: 1 & 2
+    Pre-requisites: Students must be eligible to progress to Year 3 of the Integrated Masters programme of study prior to embarking on the study year abroad. Where the language medium of the partner institution is not English, students must have normally gained at least Grade B at GCSE in the foreign language, and successfully completed a relevant package of FLTU electives in years 1 and/or 2 (or equivalent) in a foreign language. Students must also have succeeded in being placed at a partner institution offering chemistry through application to the Study Abroad Office
+    Assessment: In-course Assessment (Exchange assessment) 100%
+    URL: https://catalogue.leeds.ac.uk/Module/UG/CHEM/9304/202526

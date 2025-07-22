@@ -1,0 +1,11 @@
+torch
+transformers
+langchain
+langchain-core
+langchain-community
+langchain-huggingface
+sentence-transformers
+playwright
+streamlit
+unstructured
+tiktoken

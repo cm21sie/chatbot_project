@@ -1,0 +1,28 @@
+Question: What is the credit value of CHEM2331?
+Answer: CHEM2331 is a 20 credit module.
+
+Question: How many first year modules are available?
+Answer: There are 8 modules available in first year.
+
+Question: Are there any first year modules assessed by 100% coursework?
+Answer: Yes, CHEM1402 only consists of online assessments and practical assessments, CHEM1303 only consists of coursework (essay, group presentation, reflection and action plan and coding exercise). Neither of these modules have an exam as part of the assessment process.
+
+Question: Summarise what topics are covered across all first year modules.
+Answer:
+    - atomic structure and periodic trends
+    - chemical bonding and the periodic table
+    - basic physical chemistry (gas laws, kinetics, equilibrium, thermodynamics)
+    - acids, bases, and ionic behaviour in solution
+    - fundamentals of organic chemistry and carbon bonding
+    - introduction to chemical analysis techniques
+    - spectroscopy (UV-vis, IR, NMR, mass spectroscopy, X-ray crystallography)
+    - chromatography (GC and HPLC basics)
+    - structure identification using spectroscopic data
+    - scientific skills: poster creation, ChemDraw, and online molecular research
+    - mechanisms and electron movement in organic reactions
+
+Question: Are there any modules specifically about acid rain?
+Answer: There are no modules that are entirely about acid rain, however, there are modules that contain this topic within them such as CHEM3185: Atmospheric Chemistry.
+
+Question: How do you know which modules are third year modules?
+Answer: The module codes help determine which year the module takes place in. Those starting with a 3, for example, CHEM3211, are third year modules.
