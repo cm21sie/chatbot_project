@@ -10,3 +10,4 @@ sentence-transformers
 playwright
 unstructured
 tiktoken
+tokenizers==0.19.1
