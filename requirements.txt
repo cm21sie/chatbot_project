@@ -1,4 +1,4 @@
-torch==2.3.0+cpu
+torch
 --extra-index-url https://download.pytorch.org/whl/cpu
 transformers==4.40.1
 langchain==0.1.20
