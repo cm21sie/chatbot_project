@@ -1,14 +1,12 @@
-torch
---extra-index-url https://download.pytorch.org/whl/cpu
-transformers==4.38.2
+torch==2.2.2
+transformers==4.37.0
+tokenizers==0.13.3
 langchain==0.1.13
 langchain-core==0.1.37
-langchain-community>=0.0.38,<0.1
+langchain-community==0.0.25
 langchain-huggingface==0.0.2
-faiss-cpu
-sentence-transformers
-playwright
-unstructured
-tiktoken
-tokenizers>=0.19,<0.20
-numpy
+faiss-cpu==1.7.4
+sentence-transformers==2.2.2
+playwright==1.42.0
+unstructured==0.10.30
+tiktoken==0.6.0
