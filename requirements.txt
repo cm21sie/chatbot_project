@@ -8,6 +8,5 @@ langchain-huggingface==0.0.2
 faiss-cpu
 sentence-transformers
 playwright
-streamlit
 unstructured
 tiktoken
